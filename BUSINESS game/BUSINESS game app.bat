@@ -1,0 +1,1 @@
+.\DATA\DOSBox -conf .\DATA\BUSINESS.conf -fullscreen -exit
